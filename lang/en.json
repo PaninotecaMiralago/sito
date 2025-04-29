@@ -1,23 +1,67 @@
 {
-  "it": "Italian",
-  "en": "English",
-  "fr": "Franch",
-  "de": "German",
-
   "Ben": "Welcome",
-  "Sw": "Swipe up and check our menu",
-
-  "Al": "Alcolic Drinks",
-
-  "An": "Analcolic Drinks",
-
-  "Sn": "Snacks",
-  
-  "Pa": "Patties",
-
-  "Ge": "Icecream",
+  "Sw": "Swipe up to see the menu",
 
   "Caf": "Coffee",
+  "esp": "Espresso",
+  "mac": "Macchiato",
+  "fre": "Cold Coffee",
+  "mar": "Marocchino",
+  "cap": "Cappuccino",
+  "sha": "Shaken Coffee with Baileys",
 
-  "ig": "Follow our Instagram Page"
+  "Bi": "Beers",
+  "per": "Peroni 0.33 / 0.66ml",
+  "mor": "Moretti 0.33 / 0.66ml",
+  "cor": "Corona 0.33ml",
+  "peR": "Red Peroni 0.33ml",
+  "hei": "Heineken 0.33 / 0.66ml",
+  "bec": "Beck's 0.33ml",
+  "ich": "Ichnusa 0.5ml",
+
+  "Ap": "Aperitifs",
+  "spz": "Spritz",
+  "vin": "Glass of Wine",
+  "cam": "Campari",
+
+  "An": "Soft Drinks",
+  "aqu": "Water 0.5ml",
+  "aqz": "Sparkling Water 0.5ml",
+  "cco": "Coca Cola 0.33ml",
+  "ccz": "Coca Cola Zero 0.33ml",
+  "fan": "Fanta 0.33ml",
+  "tpe": "Peach Tea",
+  "tli": "Lemon Tea",
+  "ora": "Orange Soda",
+  "lem": "Lemon Soda",
+  "sfy": "Yoga Fruit Juice",
+  "cro": "Crodino",
+
+  "Sn": "Snacks",
+  "pec": "Bread and Chocolate",
+  "psc": "San Carlo Chips",
+  "pac": "Amica Chips",
+  "fon": "Fonzies",
+
+  "Pa": "Sandwiches and More",
+  "ham": "Hamburger",
+  "cot": "Cutlet",
+  "hod": "Hot Dog",
+  "for": "Stuffed Focaccia",
+  "paf": "French Fries",
+  "ins": "Salad",
+  "arr": "Skewers",
+
+  "Ge": "Ice Cream",
+  "cop": "Small Cone",
+  "com": "Medium Cone",
+  "cog": "Large Cone",
+  "pan": "Whipped Cream",
+
+  "Do": "Desserts",
+  "tir": "Tiramisù",
+  "pco": "Panna Cotta",
+  "che": "Cheesecake",
+
+  "ig": "Follow the Instagram Page"
 }

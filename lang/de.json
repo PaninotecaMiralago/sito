@@ -1,24 +1,67 @@
 {
-    "it": "Italienisch",
-    "en": "Englisch",
-    "fr": "Französisch",
-    "de": "Deutsch",
-  
-    "Ben": "Willkommen",
-    "Sw": "Wischen Sie nach oben, um das Menü zu sehen",
-  
-    "Al": "Alkoholische Getränke",
-  
-    "An": "Alkoholfreie Getränke",
-  
-    "Sn": "Snacks",
-    
-    "Pa": "Sandwiches",
+  "Ben": "Willkommen",
+  "Sw": "Wischen Sie nach oben, um das Menü zu sehen",
 
-    "Ge": "Ice",
+  "Caf": "Kaffee",
+  "esp": "Espresso",
+  "mac": "Macchiato",
+  "fre": "Kalter Kaffee",
+  "mar": "Marocchino",
+  "cap": "Cappuccino",
+  "sha": "Geshakter Kaffee mit Baileys",
 
-    "Caf": "Kaffee",
+  "Bi": "Biere",
+  "per": "Peroni 0.33 / 0.66ml",
+  "mor": "Moretti 0.33 / 0.66ml",
+  "cor": "Corona 0.33ml",
+  "peR": "Rotes Peroni 0.33ml",
+  "hei": "Heineken 0.33 / 0.66ml",
+  "bec": "Beck's 0.33ml",
+  "ich": "Ichnusa 0.5ml",
 
-    "ig": "Folge der Instagram-Seite"
-  }
-  
+  "Ap": "Aperitifs",
+  "spz": "Spritz",
+  "vin": "Weinglas",
+  "cam": "Campari",
+
+  "An": "Alkoholfreie Getränke",
+  "aqu": "Wasser 0.5ml",
+  "aqz": "Sprudelwasser 0.5ml",
+  "cco": "Coca Cola 0.33ml",
+  "ccz": "Coca Cola Zero 0.33ml",
+  "fan": "Fanta 0.33ml",
+  "tpe": "Pfirsichtee",
+  "tli": "Zitronentee",
+  "ora": "Orangenlimonade",
+  "lem": "Zitronenlimonade",
+  "sfy": "Yoga Fruchtsaft",
+  "cro": "Crodino",
+
+  "Sn": "Snacks",
+  "pec": "Brot und Schokolade",
+  "psc": "San Carlo Chips",
+  "pac": "Amica Chips",
+  "fon": "Fonzies",
+
+  "Pa": "Sandwiches und mehr",
+  "ham": "Hamburger",
+  "cot": "Schnitzel",
+  "hod": "Hot Dog",
+  "for": "Gefüllte Focaccia",
+  "paf": "Pommes Frites",
+  "ins": "Salat",
+  "arr": "Spieße",
+
+  "Ge": "Eis",
+  "cop": "Kleine Tüte",
+  "com": "Mittlere Tüte",
+  "cog": "Große Tüte",
+  "pan": "Sahne",
+
+  "Do": "Desserts",
+  "tir": "Tiramisù",
+  "pco": "Panna Cotta",
+  "che": "Käsekuchen",
+
+  "ig": "Folge der Instagram-Seite"
+}

@@ -1,24 +1,67 @@
 {
-    "it": "Italien",
-    "en": "Anglais",
-    "fr": "Français",
-    "de": "Allemand",
-  
-    "Ben": "Bienvenue",
-    "Sw": "Faites glisser vers le haut pour voir le menu",
-  
-    "Al": "Alcoolisés",
-  
-    "An": "Sans alcool",
-  
-    "Sn": "Snacks",
-    
-    "Pa": "Sandwichs",
+  "Ben": "Bienvenue",
+  "Sw": "Faites glisser vers le haut pour voir le menu",
 
-    "Ge": "Crème Glacé",
+  "Caf": "Café",
+  "esp": "Espresso",
+  "mac": "Macchiato",
+  "fre": "Café froid",
+  "mar": "Marocchino",
+  "cap": "Cappuccino",
+  "sha": "Café frappé avec Baileys",
 
-    "Caf": "Cafè",
+  "Bi": "Bières",
+  "per": "Peroni 0.33 / 0.66ml",
+  "mor": "Moretti 0.33 / 0.66ml",
+  "cor": "Corona 0.33ml",
+  "peR": "Peroni Rouge 0.33ml",
+  "hei": "Heineken 0.33 / 0.66ml",
+  "bec": "Beck's 0.33ml",
+  "ich": "Ichnusa 0.5ml",
 
-    "ig": "Suis la Page Instagram"
-  }
-  
+  "Ap": "Apéritifs",
+  "spz": "Spritz",
+  "vin": "Verre de vin",
+  "cam": "Campari",
+
+  "An": "Boissons sans alcool",
+  "aqu": "Eau 0.5ml",
+  "aqz": "Eau Gazeuse 0.5ml",
+  "cco": "Coca Cola 0.33ml",
+  "ccz": "Coca Cola Zero 0.33ml",
+  "fan": "Fanta 0.33ml",
+  "tpe": "Thé à la pêche",
+  "tli": "Thé au citron",
+  "ora": "Orange Soda",
+  "lem": "Lemon Soda",
+  "sfy": "Jus de fruits Yoga",
+  "cro": "Crodino",
+
+  "Sn": "Snacks",
+  "pec": "Pain et chocolat",
+  "psc": "Chips San Carlo",
+  "pac": "Chips Amica",
+  "fon": "Fonzies",
+
+  "Pa": "Sandwichs et Plus",
+  "ham": "Hamburger",
+  "cot": "Côtelette",
+  "hod": "Hot Dog",
+  "for": "Focaccia Farcie",
+  "paf": "Frites",
+  "ins": "Salade",
+  "arr": "Brochettes",
+
+  "Ge": "Glace",
+  "cop": "Petit cornet",
+  "com": "Cornet moyen",
+  "cog": "Grand cornet",
+  "pan": "Crème chantilly",
+
+  "Do": "Desserts",
+  "tir": "Tiramisù",
+  "pco": "Panna Cotta",
+  "che": "Cheesecake",
+
+  "ig": "Suis la page Instagram"
+}
