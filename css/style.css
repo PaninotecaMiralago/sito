@@ -44,6 +44,10 @@ html, body {
     pointer-events: none;
     }
 
+.logo{display: flex; flex-direction: column; margin: 0;}
+.logo img{width: 240px; height: 240px; margin: 0;}
+.logo h1{color: white; font-size: 26px;}
+
 /*Menu*/
 .container {
     padding: 2rem;
@@ -64,7 +68,7 @@ html, body {
     margin-bottom: 0;
     }
 
-.title img{width: 60px; height: 60px;}
+.title img{width: 80px; height: 80px;}
 
 
 .card {
